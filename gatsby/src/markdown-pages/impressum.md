@@ -1,6 +1,6 @@
 ---
 path: "/impressum"
-date: "2025-01-12"
+date: "2026-07-02"
 title: "Impressum"
 ---
 
@@ -10,14 +10,14 @@ title: "Impressum"
 Angaben gemäß § 5 TMG
 
 ```
-Gerhard Zittel
-Sander Str. 21 B
-21029 Hamburg
+Benjamin Schwenke
+Röprade 1a
+21031 Hamburg
 ```
 
 Vertreten durch:
 ```
-Gerhard Zittel (Clubpräsident)
+Benjamin Schwenke (Clubpräsident)
 ```
 
 Kontakt:
@@ -27,9 +27,9 @@ E-Mail: toastmasters@rc-bgdf.de
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 ```
-Gerhard Zittel
-Sander Str. 21 B
-21029 Hamburg
+Benjamin Schwenke
+Röprade 1a
+21031 Hamburg
 ```
 
 
