@@ -215,7 +215,7 @@ const IndexPage = ({ data }) => {
               </p>
               <p>Hier
                 <a aria-label="fb-home" href="https://www.facebook.com/Rednerclub-Bergedorf-174688412674869" className="inline-logo" rel="noreferrer" target="_blank"><StaticImage width={30} height={30} src="../../static/images/facebook-ios-icon.jpg" alt="Facebook-Logo"/></a>
-                und <a aria-label="ig-home" href="https://www.instagram.com/toastmasters_rednerclub/" className="inline-logo" rel="noreferrer" target="_blank"><StaticImage width={30} height={30} src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" alt="Instagram"/></a>
+                und <a aria-label="ig-home" href="https://www.instagram.com/toastmasters_rednerclub/" className="inline-logo" rel="noreferrer" target="_blank"><StaticImage width={30} height={30} src="../../static/images/instagram_logo.webp" alt="Instagram"/></a>
                 findest du unsere brandaktuellen Infos.</p>
             </Col>
             <Col md={6}>
