@@ -19,7 +19,7 @@ Eine Anleitung für den VP Öffentlichkeitsarbeit zum [Veröffentlichen der Beit
 * [10020_Formular-ah-Zaehler](https://res.cloudinary.com/dgibmteg8/raw/upload/v1625845541/rcb-downloads/10020_Formular-ah-Zaehler.doc)
 * [10030_Formular-Zeitnehmer](https://res.cloudinary.com/dgibmteg8/image/upload/v1625845541/rcb-downloads/10030_Formular-Zeitnehmer_2017-07-10.pdf)
 * [10040_Formular_Gaesteliste](https://res.cloudinary.com/dgibmteg8/raw/upload/v1625845542/rcb-downloads/10040_Formular_Gaesteliste.doc)
-* [10050_RCB_Mitgliedsantrag](https://asset.cloudinary.com/dgibmteg8/5660ed64d355bb53da0d4d0d1faa905e)
+* [10050_RCB_Mitgliedsantrag](https://res.cloudinary.com/dgibmteg8/image/upload/v1787492510/rcb-downloads/10050_RCB_Mitgliedsantrag_Stand_8_2026.pdf)
 * [10100_RCB_Namensschilder_Juli_2019_VORLAGE](https://res.cloudinary.com/dgibmteg8/raw/upload/v1625845542/rcb-downloads/10100_RCB_Namensschilder_Juli_2019_VORLAGE.docx)
 * [30070_Die_Aemter_des_Abends](https://res.cloudinary.com/dgibmteg8/image/upload/v1625845544/rcb-downloads/30070_Die_Aemter_des_Abends.pdf)
 * [30080_Mentoren_Leitfaden](https://res.cloudinary.com/dgibmteg8/image/upload/v1625845544/rcb-downloads/30080_Mentoren_Leitfaden_1119.pdf)
